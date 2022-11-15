@@ -1,7 +1,7 @@
 # simple shell
 
 command line interpreter or shell
-## to compiler the source 
+## to compile the source 
 
 ```
 gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
